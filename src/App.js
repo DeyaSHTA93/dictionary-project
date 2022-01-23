@@ -13,7 +13,15 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Deya Shrestha</footer>
+        <footer className="App-footer">
+          Coded by{" "}
+          <a
+            href="https://pensive-goldwasser-b5f98d.netlify.app/index.html"
+            target="_blank"
+          >
+            Deya Shrestha{" "}
+          </a>
+        </footer>
       </div>
     </div>
   );
