@@ -14,13 +14,31 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          Coded by{" "}
+          This project was coded by{" "}
           <a
             href="https://pensive-goldwasser-b5f98d.netlify.app/index.html"
             target="_blank"
+            rel="noreferrer"
           >
-            Deya Shrestha{" "}
+            Deya Shrestha
+          </a>{" "}
+          and is open-sourced on{" "}
+          <a
+            href="https://github.com/DeyaSHTA93/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://stupefied-mccarthy-6bb50e.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
           </a>
+          .
         </footer>
       </div>
     </div>
