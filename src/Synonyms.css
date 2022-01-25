@@ -1,0 +1,9 @@
+.wrapper {
+  text-align: center;
+}
+
+.wrapper ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
