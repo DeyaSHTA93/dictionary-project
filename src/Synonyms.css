@@ -1,9 +1,11 @@
-.wrapper {
-  text-align: center;
+.Synonyms {
+  margin: 20px 20px 20px 40px;
+  padding: 0;
 }
 
-.wrapper ul {
-  margin: 0;
-  padding: 0;
-  display: inline;
+.Synonyms li {
+  display: inline-block;
+  font-size: 12px;
+  padding: 8px;
+  line-height: 1;
 }

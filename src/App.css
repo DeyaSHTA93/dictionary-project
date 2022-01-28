@@ -1,3 +1,14 @@
+body {
+  background: #f9f8db;
+  color: #473f47;
+  text-align: center;
+}
+
+a {
+  color: #f2a569;
+  font-weight: bold;
+}
+
 .App-header {
   margin: 30px 0;
   text-align: center;
